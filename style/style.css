@@ -1,0 +1,35 @@
+#divtom{
+    width: 1080px;
+    margin-left: 580px;
+
+}
+
+#heander{
+    padding-left: 360px;
+}
+
+#content  p {
+ padding-left: 349px;
+}
+
+#rig_01 {
+ margin-left: -400px;
+ width: 1040px;
+ padding-left: 55px;
+ float:right;
+ padding-right: 70px;
+
+}
+
+#rig_02   {
+
+    margin-top: 50px;
+
+    
+}
+
+#rig_02 p {
+    margin-top: -300px;
+    margin-left: -22px;
+
+}
